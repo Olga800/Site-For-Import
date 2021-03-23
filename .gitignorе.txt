@@ -1,6 +1,0 @@
-index.html_old
-.DS_Store
-/tmp
-Thumds.db
-*_old
-*_backup
